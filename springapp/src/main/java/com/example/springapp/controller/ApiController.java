@@ -1,4 +1,4 @@
-package com.examly.springapp.controller;
+package com.example.springapp.controller;
 
 import java.util.List;
 import java.util.Optional;
